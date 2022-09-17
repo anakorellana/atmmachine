@@ -4,7 +4,7 @@ Simple React ATM
 
 <h2>Description</h2>
 
-Simulating an ATM machine where it communicates between the user and bank. IT allows users to make deposits and in the second updated version it does not allow users to obtain more cash than the one that's available. 
+Simulating an ATM machine where it communicates between the user and bank. IT allows users to make deposits and in the second updated version it does not allow users to obtain more cash than the one that's available.
 
 <h2>Usage</h2>
 Feel free to open the html file along with the images in the IDE of your choice and make sure you use this command 'http-server' to actually be able to see the app on your browser. There is room for improvement, specially the styling and the UI/UX area.
